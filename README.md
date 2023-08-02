@@ -1,0 +1,2 @@
+# nodeTypeScript
+typeScript fundaments
