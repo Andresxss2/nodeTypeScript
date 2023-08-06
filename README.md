@@ -1,2 +1,3 @@
 # nodeTypeScript
+
 typeScript fundaments
